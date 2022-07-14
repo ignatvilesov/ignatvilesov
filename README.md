@@ -19,7 +19,7 @@ JavaScript, TypeScript, HTML, CSS, Gherkin, SQL, C#
 
 ### Front-end
 
-React, Redux, MobX, React Query, Web APIs (WebSockets, Web Storage API, WebWorkers, ServiceWorkers, WebComponents, IndexedDB), Stencil, Lit, Angular, Angular.js, Inversity, D3.JS, Recharts, Nivo, Storybook, Material UI, Carbon, redux-saga, redux-thunk, Linaria, styled-components, Dexie, React Scripts, CRACO, React-virtualized, React Router, i18n, datefns, comlink, comlink-loader, Pendo
+React, Next.js, Redux, MobX, React Query, Web APIs (WebSockets, Web Storage API, WebWorkers, ServiceWorkers, WebComponents, IndexedDB), Stencil, Lit, Angular, Angular.js, Inversity, D3.JS, Recharts, Nivo, Storybook, Material UI, Carbon, redux-saga, redux-thunk, Linaria, styled-components, Dexie, React Scripts, CRACO, React-virtualized, React Router, i18n, datefns, comlink, comlink-loader, Pendo
 
 ### Back-end
 
