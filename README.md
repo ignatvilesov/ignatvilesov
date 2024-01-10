@@ -1,7 +1,7 @@
 ## Contacts
 - 👋 Hi, I’m Ignat Vilesov
 - 👀 I’m interested in software architecture and development using different technologies for solving complex business problems
-- 📫 Reach me out via email [ignat.vilesov@gmail.com](mailto:ignat.vilesov@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ignatvilesov/)
+- 📫 Reach me out via email [ignatvilesov@gmail.com](mailto:ignatvilesov@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ignatvilesov/)
 
 ## TECHNOLOGY SUMMARY
 
